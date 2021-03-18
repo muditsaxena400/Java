@@ -2,7 +2,7 @@ package com.service.pkart;
 
 import java.util.List;
 
-import com.model.ekart.Cart;
+import com.model.pkart.Cart;
 
 public interface ICartService {
 
