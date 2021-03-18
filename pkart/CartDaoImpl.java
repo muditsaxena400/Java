@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.model.ekart.Cart;
+import com.model.pkart.Cart;
 
 public class CartDaoImpl implements ICartDao {
 private static Map<Integer,Cart> carts;
