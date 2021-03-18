@@ -1,9 +1,9 @@
 
 import java.util.List;
 
-import com.dao.ekart.IProductDao;
-import com.dao.ekart.ProductDaoImpl;
-import com.model.ekart.Product;
+import com.dao.pkart.IProductDao;
+import com.dao.pkart.ProductDaoImpl;
+import com.model.pkart.Product;
 
 public class ProductServiceImpl implements IProductService {
 
