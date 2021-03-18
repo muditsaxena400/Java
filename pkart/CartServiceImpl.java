@@ -2,9 +2,9 @@ package com.service.pkart;
 
 import java.util.List;
 
-import com.dao.ekart.CartDaoImpl;
-import com.dao.ekart.ICartDao;
-import com.model.ekart.Cart;
+import com.dao.pkart.CartDaoImpl;
+import com.dao.pkart.ICartDao;
+import com.model.pkart.Cart;
 
 public class CartServiceImpl implements ICartService {
 private static ICartDao cartDao;
