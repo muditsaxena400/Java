@@ -1,4 +1,4 @@
-package com.dao.ekart;
+package com.dao.pkart;
 
 import java.util.ArrayList;
 import java.util.Collection;
