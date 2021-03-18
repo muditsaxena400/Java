@@ -14,9 +14,9 @@ public class MainController {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		AdminController adminController = new AdminController();
 CustomerController cc=new CustomerController();
-		boolean action = true;
+		boolean choice = true;
 
-		while (action) {
+		while (choice) {
 
 			System.out.println("***Welcome to PKart*****");
 			System.out.println("1.Admin \n 2.Customer \n 3.Exit");
