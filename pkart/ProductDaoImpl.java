@@ -5,9 +5,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.model.ekart.Customer;
-//import com.model.ekart.Customer;
-import com.model.ekart.Product;
+import com.model.pkart.Customer;
+//import com.model.pkart.Customer;
+import com.model.pkart.Product;
 
 public class ProductDaoImpl implements IProductDao {
 
