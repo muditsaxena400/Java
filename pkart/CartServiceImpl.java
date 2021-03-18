@@ -1,4 +1,4 @@
-package com.service.ekart;
+package com.service.pkart;
 
 import java.util.List;
 
