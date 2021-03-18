@@ -1,8 +1,8 @@
 
 import java.util.List;
 
-import com.model.ekart.Customer;
-import com.model.ekart.Product;
+import com.model.pkart.Customer;
+import com.model.pkart.Product;
 
 public interface IProductDao {
 	void add(Product product);
